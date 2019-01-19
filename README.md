@@ -1,9 +1,7 @@
-# Plain60-C
+# Split60-C
 
 ![Plain60-C PCB](https://i.imgur.com/OwOP9Vb.png)
-This universal 60% PCB is designed to support as little layouts as possible without limiting usability for most users. The reason I did this is because other PCBs made for this form factor usually have so many supported layouts that it could almost qualify as swiss cheese.
-
-It also features a fuse and an ESD protection chip to protect the MCU and other parts of the PCB.
+This PCB is a fork of the [Plain60-C] which introduces split space compatibility and nothing more.
 
 ## Features
 - QMK Firmware
